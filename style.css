@@ -1,0 +1,29 @@
+body {
+    font-family: "Helvetica Neue", "微軟正黑體", sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    background-color: #0056a6;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+main
